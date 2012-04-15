@@ -1,0 +1,8 @@
+name: SafeBuckets
+version: ${project.version}
+description: ${project.description}
+
+author: Travis Watkins
+website: ${project.url}
+
+main: com.probablycoding.bukkit.safebuckets.SafeBuckets
